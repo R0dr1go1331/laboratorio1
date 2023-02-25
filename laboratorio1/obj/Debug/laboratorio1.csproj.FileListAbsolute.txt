@@ -1,0 +1,8 @@
+C:\Users\Rodrigo\source\repos\laboratorio1\laboratorio1\bin\Debug\laboratorio1.exe.config
+C:\Users\Rodrigo\source\repos\laboratorio1\laboratorio1\bin\Debug\laboratorio1.exe
+C:\Users\Rodrigo\source\repos\laboratorio1\laboratorio1\bin\Debug\laboratorio1.pdb
+C:\Users\Rodrigo\source\repos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\source\repos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rodrigo\source\repos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.exe
+C:\Users\Rodrigo\source\repos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.pdb
